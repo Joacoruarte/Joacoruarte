@@ -24,19 +24,10 @@ Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize
   <img src="./4.png" alt= "creation form">
 
 <hr>
-<br />
-<p align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img height=205 width=380 align="center" src="https://github-readme-stats.vercel.app/api?username=francopachec0&show_icons=true&theme=tokyonight">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=205  width=380 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francopachec0&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-    </a>
-</p>
 <hr>
 
 <!---
-francopachec0/francopachec0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joacoruarte/Joacoruarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
