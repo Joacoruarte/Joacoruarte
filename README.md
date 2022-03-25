@@ -15,7 +15,8 @@
 - JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
 
 <h2 align="left">📌My Projects</h2>
-<h3 align="left">🐢 Pokemon App</h3>
+<h3 align="left">🐢 Pokemon App</h3> 
+<h4>Link del proyecto: https://pokemon-api-pi.vercel.app/</h4>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
   <img src="./1.png" alt= "landing page">
