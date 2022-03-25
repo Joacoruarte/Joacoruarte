@@ -19,10 +19,13 @@
 <h4>Link del proyecto: https://pokemon-api-pi.vercel.app/</h4>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
-  <img src="./1.png" alt= "landing page">
-  <img src="./2.png" alt= "home app">
-  <img src="./3.png" alt= "details">
-  <img src="./4.png" alt= "creation form">
+  <img src=".![Captura de pantalla 2022-03-25 132804](https://user-images.githubusercontent.com/93412370/160161954-92fdb723-e69d-4bed-ab70-3832b82c8cc1.png)" alt= "landing page">
+  <img src="![Captura de pantalla 2022-03-25 132838](https://user-images.githubusercontent.com/93412370/160161995-1a38d271-d24e-4bfd-a069-7be7d2362812.png)
+" alt= "home app">
+  <img src="![Captura de pantalla 2022-03-25 132926](https://user-images.githubusercontent.com/93412370/160162036-f94fd7f0-e26e-4246-8d4d-2019e339e808.png)
+" alt= "details">
+  <img src="![Captura de pantalla 2022-03-25 132903](https://user-images.githubusercontent.com/93412370/160162059-674470ad-35a5-4967-9222-02626df34691.png)
+" alt= "creation form">
 
 <hr>
 <hr>
