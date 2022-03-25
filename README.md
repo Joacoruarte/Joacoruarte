@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I’m Joaquin Ruarte, a passionate 💻Full-Stack Developer💻</h2>
-<img src="https://user-images.githubusercontent.com/93412370/160053548-62051293-8b54-4d13-b349-393a4acbdea5.png" alt='img profile' min-width="40" min-height="20"/>
+<img src="https://user-images.githubusercontent.com/93412370/160053548-62051293-8b54-4d13-b349-393a4acbdea5.png" alt='img profile' min-width="40" min-height="20" align='center'/>
 
 - 🚀 I'm studying in a BootCamp of Henry 👨‍🎓
 - 👀 I’m interested in programming and tecnology!
