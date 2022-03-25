@@ -9,7 +9,7 @@
 - 📫 How to reach me :
   - Email: ruartejoaquin@gmail.com
   - Phone: +54 2226539525
-  - LinkedIn: https://www.linkedin.com/in/francopachec0/
+  - LinkedIn: https://www.linkedin.com/in/joaquinruartejs/
 
 <h2 align="left">🚀Skills</h2>
 - JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
