@@ -19,19 +19,15 @@
 <h4>Link del proyecto: https://pokemon-api-pi.vercel.app/</h4>
   <p align="left"><strong>
 Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
-  <img src=".![Captura de pantalla 2022-03-25 132804](https://user-images.githubusercontent.com/93412370/160161954-92fdb723-e69d-4bed-ab70-3832b82c8cc1.png)" alt= "landing page">
-  <img src="![Captura de pantalla 2022-03-25 132838](https://user-images.githubusercontent.com/93412370/160161995-1a38d271-d24e-4bfd-a069-7be7d2362812.png)
-" alt= "home app">
-  <img src="![Captura de pantalla 2022-03-25 132926](https://user-images.githubusercontent.com/93412370/160162036-f94fd7f0-e26e-4246-8d4d-2019e339e808.png)
-" alt= "details">
-  <img src="![Captura de pantalla 2022-03-25 132903](https://user-images.githubusercontent.com/93412370/160162059-674470ad-35a5-4967-9222-02626df34691.png)
-" alt= "creation form">
+![Captura de pantalla 2022-03-25 132804](https://user-images.githubusercontent.com/93412370/160162274-141a429b-4169-46fe-8415-f910c1108766.png)
+![Captura de pantalla 2022-03-25 132838](https://user-images.githubusercontent.com/93412370/160162291-ffd2b237-35fa-4cb0-8f47-0d8755501dab.png) 
+![Captura de pantalla 2022-03-25 132926](https://user-images.githubusercontent.com/93412370/160162334-e78c8ef0-7654-4968-90bd-082d541a1a87.png)
+![Captura de pantalla 2022-03-25 132903](https://user-images.githubusercontent.com/93412370/160162351-011f676d-8b66-4a68-9001-c4fad0f5c1b3.png)
 
-<hr>
 <hr>
 
 <!---
-Joacoruarte/Joacoruarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joacoruarte/joacoruarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
