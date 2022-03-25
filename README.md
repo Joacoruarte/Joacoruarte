@@ -8,9 +8,9 @@
 🙌 I’m looking to collaborate on any project
 ❤️ i enjoy learn everything!
 📫 How to reach me :
--Email: ruartejoaquin@gmail.com
--Phone: +54 2226539525
--LinkedIn: https://www.linkedin.com/in/joaquin-ruarte/
+- Email: ruartejoaquin@gmail.com
+- Phone: +54 2226539525
+- LinkedIn: https://www.linkedin.com/in/joaquin-ruarte/
 
 
 🚀Skills 
