@@ -18,12 +18,11 @@
 <h3 align="left">🐢 Pokemon App</h3> 
 <h4>Link del proyecto: https://pokemon-api-pi.vercel.app/</h4>
   <p align="left"><strong>
-Technologies: </strong>ReactJS, Redux, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
-<img src="https://user-images.githubusercontent.com/93412370/160162274-141a429b-4169-46fe-8415-f910c1108766.png"  min-width="20" min-height="20" />
-<img src="https://user-images.githubusercontent.com/93412370/160162291-ffd2b237-35fa-4cb0-8f47-0d8755501dab.png"  min-width="20" min-height="20" /> 
-<img src="https://user-images.githubusercontent.com/93412370/160162334-e78c8ef0-7654-4968-90bd-082d541a1a87.png"  min-width="20" min-height="20" /> 
-<img src="https://user-images.githubusercontent.com/93412370/160162351-011f676d-8b66-4a68-9001-c4fad0f5c1b3.png"  min-width="20" min-height="20" />
-
+Technologies: </strong>ReactJS, Redux, SASS, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL</p>
+<h3 align="left">💻 E-commerce Mode-Parfum</h3> 
+<h4>Link del proyecto: https://mode-parfum.vercel.app/</h4>
+  <p align ="left"><strong>
+Technologies: </strong>ReactJS, Redux, Styled Components, HTML5, CSS3, NodeJS, ExpressJS, Sequelize, PostgreSQL, JWT</p>
 <hr>
 
 <!---
