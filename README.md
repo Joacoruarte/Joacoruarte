@@ -12,7 +12,7 @@
   - LinkedIn: https://www.linkedin.com/in/joaquinruartejs/
 
 <h2 align="left">🚀Skills</h2>
-- JavaScript, HTML5, CSS3, React JS, Redux, PostgreSQL, Express JS, Sequelize.
+- JavaScript, TypeScript, HTML5, CSS3, React JS, Redux, Node JS, Express JS, PostgreSQL, Sequelize.
 
 <h2 align="left">📌My Projects</h2>
 <h3 align="left">🐢 Pokemon App</h3> 
