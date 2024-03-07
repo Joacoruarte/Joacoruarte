@@ -5,7 +5,7 @@
 - 👀 I am interested in programming and tecnology!
 - 📫 How to contact me :
   - Email: ruartejoaquin@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/joaquinruartejs/
+  - LinkedIn: https://www.linkedin.com/in/joaquinruarte
 
 <h2 align="left">🚀Skills</h2>
 - JavaScript, TypeScript, HTML5, CSS3, React, Next.js, Redux, Node, Express, SQL, PostgreSQL, Sequelize, Graphql.
