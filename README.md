@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m Joaquin Ruarte, a 💻Full-Stack Developer💻</h2>
+<h2 align="center">👋 Hi, I’m Joaquin Ruarte, a 💻Full-Stack Web Developer💻</h2>
 <img src="https://github.com/cristiangc92/cristiangc92/blob/main/1642167163907.jpg?raw=true' min-width="40" min-height="20" align='center'/>
 
 - 🚀 I studied in a BootCamp of Henry 👨‍🎓
